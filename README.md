@@ -62,16 +62,16 @@ src/
 
 ### Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](screenshots/Screenshot-1.png)
 
 ### Add Student
 
-![Add Student](screenshots/add-student.png)
+![Add Student](screenshots/Screenshot-1.png)
 
 ### View Students
 
-![View Students](screenshots/view-students.png)
+![View Students](screenshots/Screenshot-2.png)
 
 ### Database Table
 
-![Database Table](screenshots/mysql-table.png)
+![Database Table](screenshots/Screenshot-3.png)
