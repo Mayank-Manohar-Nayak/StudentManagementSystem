@@ -57,3 +57,21 @@ src/
 * Search by name
 * Export student data
 * Authentication system
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Add Student
+
+![Add Student](screenshots/add-student.png)
+
+### View Students
+
+![View Students](screenshots/view-students.png)
+
+### Database Table
+
+![Database Table](screenshots/mysql-table.png)
