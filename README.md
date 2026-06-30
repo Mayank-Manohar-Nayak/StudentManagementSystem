@@ -60,18 +60,10 @@ src/
 
 ## Screenshots
 
-### Main Menu
+### Main Menu - Screenshot 1
 
-![Main Menu](screenshots/Screenshot-1.png)
+### Add Student - Screenshot 1
 
-### Add Student
+### View Students - Screenshot 2
 
-![Add Student](screenshots/Screenshot-1.png)
-
-### View Students
-
-![View Students](screenshots/Screenshot-2.png)
-
-### Database Table
-
-![Database Table](screenshots/Screenshot-3.png)
+### Database Table - Screenshot 3
